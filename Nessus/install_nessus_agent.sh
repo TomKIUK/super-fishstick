@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # Intune macOS install script for Nessus Agent via GitHub-hosted PKG
 # - Downloads PKG from GitHub (raw URL)
